@@ -1,0 +1,16 @@
+{
+  "name": "pi-tui",
+  "version": "0.1.0",
+  "description": "TUI extensions for pi coding agent",
+  "private": true,
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "scripts": {
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
