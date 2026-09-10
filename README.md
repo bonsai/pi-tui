@@ -2,6 +2,10 @@
 
 pi coding agent の TUI 拡張置き場。
 
+> **役割分担 (トリセツ)**: このリポジトリは **コードの原本** (拡張・装着スクリプト) を管理する。
+> 設定の読み書き・切替は **soubi** (`bonsai/soubi`) の専権。
+> 担当の境界・排他ルール・判断フローは [soubi/docs/トリセツ.md](https://github.com/bonsai/soubi/blob/master/docs/トリセツ.md)。
+
 ## Extensions
 
 ### emoji-editor
